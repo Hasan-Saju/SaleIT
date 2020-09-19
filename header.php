@@ -168,7 +168,7 @@ desired effect
       <ul class="sidebar-menu" data-widget="tree">
        
        
-        <li><a href="dashboard.php"><i class="fa fa-dashboard"></i> <span>Dashboard</span></a></li>
+        <li><a href="dashboard.php"><i class="fa fa-dashboard"></i> <span>Create Order</span></a></li>
            <li><a href="category.php"><i class="fa fa-list-alt"></i> <span>Category</span></a></li>
           
            <li><a href="addproduct.php"><i class="fa fa-product-hunt"></i> <span>Add Product</span></a></li>
