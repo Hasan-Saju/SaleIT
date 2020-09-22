@@ -11,4 +11,5 @@ Then he can add product information there, including stock , purchase and sale p
 He can view the details of any product any time, also he has the authority to edit any information of the product.
 
 An user is mainly a staff for this software. He can only create order for the customer.
+MYSQL are used to maintain the database of the organization.
 
